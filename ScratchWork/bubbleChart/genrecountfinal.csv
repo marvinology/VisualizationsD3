@@ -1,0 +1,13 @@
+,genre,count,image_path
+0,Action,1519,images/linkpose.png
+1,Sports,906,images/linkpose.png
+2,Shooter,800,images/linkpose.png
+3,Role-Playing,638,images/linkpose.png
+4,Racing,533,images/linkpose.png
+5,Platform,391,images/linkpose.png
+6,Misc,378,images/linkpose.png
+7,Fighting,358,images/linkpose.png
+8,Simulation,246,images/linkpose.png
+9,Adventure,212,images/linkpose.png
+10,Strategy,189,images/linkpose.png
+11,Puzzle,110,images/linkpose.png
